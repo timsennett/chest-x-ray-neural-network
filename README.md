@@ -14,9 +14,9 @@ The full download of the data is quite large as constituted (7.9 GB). But most o
 
 After downloading, I manually moved the relevant folder, `chest_xray`, into this project repository.
 
-The `chest_xray` folder is sectioned into `train` and `test` subfolders, each of which is further sectioned into `NORMAL` and `PNEUMONIA` subfolders. Without a dedicated folder for validation data, I manually created a `validation` folder in `chest_xray` and manually moved sixteen samples from each class of the testing set into it, making sure to choose an equal number of bacterial and viral pneumonia cases, as indicated by their respective files names.
+The `chest_xray` folder is sectioned into `train` and `test` subfolders, each of which is further sectioned into `NORMAL` and `PNEUMONIA` subfolders. Without a dedicated folder for validation data, I manually created a `validation` folder in `chest_xray` and manually moved sixteen samples from each class of the testing set into it, making sure to choose an equal number of bacterial and viral pneumonia cases, as indicated by their respective files names. (Images may not be available here due to the folder's large size.)
 
-The six `.h5` files are saved models that were trained in `student.ipynb`, in keeping with the iterative approach to modeling as required by the project guidelines.
+The six `.h5` files are saved models that were trained in `student.ipynb`, in keeping with the iterative approach to modeling as required by the project guidelines. (Files may not be available due to their large size.)
 
 See below for more on `presentation.pdf`.
 
