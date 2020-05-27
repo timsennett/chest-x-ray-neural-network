@@ -30,7 +30,7 @@ The PowerPoint slides used in this executive summary presentation are located in
 
 ## Blog post
 
-Visit https://medium.com/@timsennett/ to read my blog post on a topic related to this project.
+Visit https://medium.com/@timsennett/unfreezing-the-layers-you-want-to-fine-tune-using-transfer-learning-1bad8cb72e5d to read my blog post on a topic related to this project.
 
 
 ## Support 
