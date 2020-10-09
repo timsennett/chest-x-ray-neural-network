@@ -1,5 +1,5 @@
 
-# Module 4 Final Project
+# Chest X-Ray Image Classifier
 
 In this project, I've chosen to work with the ["Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images"](https://data.mendeley.com/datasets/rscbjbr9sj/3) for the purpose of creating a binary image classification model.
 
