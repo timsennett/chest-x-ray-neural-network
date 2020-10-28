@@ -1,6 +1,9 @@
 # Data Folder
 data/
 
+# Trained models
+.h5
+
 # DS_Store
 .DS_Store
 
