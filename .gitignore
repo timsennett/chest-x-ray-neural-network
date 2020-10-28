@@ -2,7 +2,7 @@
 data/
 
 # Trained models
-.h5
+*.h5
 
 # DS_Store
 .DS_Store
